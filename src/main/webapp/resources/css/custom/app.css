@@ -1,0 +1,66 @@
+ /* app css stylesheet */
+ .row-top-buffer {
+     margin-top: 5px;
+ }
+
+ .input-label {
+     padding-top: 10px;
+ }
+
+ .value-label {
+     padding-top: 10px;
+     font-weight: normal;
+ }
+
+ .error-list {
+     list-style-type: none;
+     padding-left: 0;
+ }
+
+ /* chart of accounts */
+ .code-col {
+     width: 190px;
+ }
+
+ .type-col {
+     width: 223px;
+ }
+
+ /*sub menu indention*/
+ .sub-menu {
+     margin-left: 20px;
+ }
+
+ /*entity browser modal size*/
+ .sl-entity-browser-modal-window .modal-dialog {
+     width: 80%;
+ }
+
+ /*sl setter modal size*/
+ .sl-setter-modal-window .modal-dialog {
+     width: 60%;
+ }
+
+ /*assign-check-modal-window*/
+ .assign-check-modal-window .modal-dialog {
+     width: 60%;
+ }
+
+ .sl-setter-total-red{
+    color: red;
+ }
+
+ /*mrct browser modal size*/
+ .mrct-browser-modal-window .modal-dialog{
+     width: 80%;
+ }
+
+ /* apv browser modal size*/
+ .apv-browser-modal .modal-dialog {
+     width: 80%;
+ }
+
+ .modal-100 .modal-dialog {
+     width: 98%;
+ }
+
